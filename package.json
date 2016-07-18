@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris P",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b4ux1t3/chicken-little.git"
+  },
+  "bugs": {
+    "url": "https://github.com/b4ux1t3/chicken-little/issues"
+  },
+  "homepage": "https://github.com/b4ux1t3/chicken-little#readme"
 }
